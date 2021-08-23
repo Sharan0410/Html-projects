@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Poppins:wght@400;500;600&family=Roboto:wght@400;500&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+    
+}
+:root{
+    --col1:#ffffff;
+    --col2:#F9F9FF;
+    --col3:#0000000D;
+    --col4:#000000;
+    --col5:#6B6969;
+    --col6:#2626BC;
+    --col7:#FF7EB8;
+    --col8:#FF5BA8;
+    --col9:#02FFB3;
+    --col10:#8399FE;
+    --col11:#6583FE;
+    --col12:#97FFD2;
+    --col13:#01ECA5;
+    --col14:#00D890;
+    --col15:#B7C5FF;
+    --col16:#D2DEFF;
+    --col17:#FFA8CF;
+    --col18:#707070;
+    --col19:#0D13D7;
+    --col20:#F3F3F3;
+    --col21:#010000;
+    --col22:#00000029;
+    --col23:#EFEFFE;
+    --col24:#222D39;
+    --col25:#333697;
+    --col26:#EBEBF8;
+    --col27:#8A8A8A;
+    --col28:#6D79C2;
+    --col29:#8994DF;
+    --col30:#9C9CA8;
+    --col31:#677294;
+    --col32:#7C7C7C;
+    --col33:#1453FF;
+    --col34:#242424;
+    --col35:#241B1B;
+    --col36:#FEFEFE;
+}
+header
+{
+    height:  84.53738910012675vh;
+    background: cadetblue;
+}
+nav
+{
+    background: rebeccapurple;
+    height: 15%;
+}
+
+.header-content
+{
+    background: chartreuse;
+    height:85% ;
+}
+
+.services
+{
+    background: chocolate;
+    height:  105.32319391634981vh;
+    padding: 5% 15%;
+}
+
+
+.service-center
+{
+    background: cornsilk;
+    height: 100%;
+}
+
+.whyus
+{
+    background: cyan;
+    height: 702px;
+    padding: 0 5%;
+}
+.why-center
+{
+    background: darkblue;
+    height: 100%;
+}
+
+.nos{
+    height:461px;
+    padding: 5% 6%;
+    background: darkmagenta;
+}
+
+.nos-center
+{
+    background: darkorange;
+    height: 100%;
+}
+
+.portfolio
+{
+    height: 700px;
+    background:darksalmon ;
+    padding: 0 10%;
+}
+
+.portfolio-center
+{
+    background: darkviolet;
+    height: 100%;
+}
+
+.feedback{
+    height: 638px;
+    background: dodgerblue;
+}
+
+.feedback-1
+{
+    height: 32%;
+    background: forestgreen;
+    padding: 2% 4.5%;
+}
+.feedback-d
+{
+    background: gold;
+    height: 90%;
+}
+.feedback-2
+{
+    background: fuchsia;
+    height: 68%;
+    
+}
+footer
+{
+background: brown;
+height: 500px;
+}
+.footer-1
+{
+    background: coral;
+    height: 25%;
+    margin: 100% auto;
+}
+
