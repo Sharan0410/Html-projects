@@ -45,7 +45,7 @@
 }
 
 header {
-  height: 84.53738910012675vh;
+  height:699px;
   /* background: cadetblue; */
   background: url("../images/Group\ 1757.png") no-repeat center/cover;
   
@@ -723,3 +723,6 @@ nav ul li a{
 }
 
 
+@media screen and (max-width:768px) {
+  
+}
