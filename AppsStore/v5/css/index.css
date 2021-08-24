@@ -48,6 +48,7 @@ header {
   height: 84.53738910012675vh;
   /* background: cadetblue; */
   background: url("../images/Group\ 1757.png") no-repeat center/cover;
+  
 }
 
 nav {
@@ -65,8 +66,33 @@ nav {
   text-transform: capitalize;
   font-size: 30px;
   color: var(--col19);
+
+}
+.circle
+{
+  background: var(--col1);
+  width: 39px;
+  height: 39px;
+  border-radius: 50%;
+  padding: 8px;
+  display: none;
 }
 
+.line1
+{
+  width:20.5px;
+  height: 5px;
+  background: var(--col6);
+  margin: 2px;
+}
+
+.line2
+{
+  width: 10.25px;
+  height: 5px;
+  background: var(--col6);
+  margin: 0 50%;
+}
 .title span {
   color: var(--col4);
 }
@@ -78,12 +104,17 @@ nav ul {
   align-items: center;
 }
 
-nav ul li {
+nav ul li a{
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 20px;
   text-transform: capitalize;
+  text-decoration: none;
+  color: var(--col4);
+  cursor: pointer;
 }
+
+
 
 .main-btn {
   border-radius: 40px;
@@ -690,3 +721,5 @@ nav ul li {
 .tc {
   margin-top: 25%;
 }
+
+
